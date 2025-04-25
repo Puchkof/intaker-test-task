@@ -1,0 +1,6 @@
+@Intaker.TaskManager.Api_HostAddress = http://localhost:5001
+
+GET {{Intaker.TaskManager.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
